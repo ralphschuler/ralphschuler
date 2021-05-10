@@ -6,78 +6,78 @@
 <table>
   <tr>
    <td align="center" width="96">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#&nbsp;(Core)
+        <img src="./img/solidity.svg" width="48" height="48" alt="" />
+      <br>Solidity
     </td>
     <td align="center" width="96">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go.svg" width="48" height="48" alt="Golang" />
       <br>Go
     </td>
     <td align="center" width="96">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      <br>Jsonnet
+        <img src="./img/drone.svg" width="48" height="48" alt="" />
+      <br>Drone
     </td>   
     <td align="center" width="96">
-        <img src="./img/vuejs-original.svg" width="48" height="48" alt="VueJs" />
+        <img src="./img/vuejs.svg" width="48" height="48" alt="VueJs" />
       <br>VueJs
     </td>
     <td align="center" width="96">
-        <img src="./img/vuetify-original.svg" width="48" height="48" alt="Vuetify" />
+        <img src="./img/vuetify.svg" width="48" height="48" alt="Vuetify" />
       <br>Vuetify
     </td>
     <td align="center" width="96">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
+        <img src="./img/threejs.svg" width="48" height="48" alt="" />
+      <br>ThreeJS
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/kubernetes.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/docker.svg" width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/debian.svg" width="48" height="48" alt="Debian" />
       <br>Debian
     </td>
     <td align="center"  width="96">
-        <img src="./img/alpine-original.svg" width="48" height="48" alt="Alpine" />
+        <img src="./img/alpine.svg" width="48" height="48" alt="Alpine" />
       <br>Alpine
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      <br>Powershell
+        <img src="./img/terraform.svg" width="48" height="48" alt="Terraform" />
+      <br>Terraform
     </td>
     <td align="center"  width="96">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+        <img src="./img/neo4j.svg" width="48" height="48" alt="MySQL" />
+      <br>Neo4j
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      <br>Grafana
+        <img src="./img/mongodb.svg" width="48" height="48" alt="" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      <br>Prometheus
+        <img src="./img/aws.svg" width="48" height="48" alt="" />
+      <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      <br>Thanos
+        <img src="" width="48" height="48" alt="" />
+      <br>
     </td>
   </tr>
 </table>
