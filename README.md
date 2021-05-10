@@ -1,6 +1,8 @@
 
 ## Metrics
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+<center>
+        <img src="./github-metrics.svg" alt="Metrics" />
+</center>
 
 ## Favorite Tech
 <table>
