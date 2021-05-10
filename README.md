@@ -1,10 +1,12 @@
 
-## Metrics
+# Welcome to my profile Readme
+
 <center>
         <img src="./github-metrics.svg" alt="Metrics" />
 </center>
 
-## Favorite Tech
+---
+
 <table>
   <tr>
    <td align="center" width="96">
