@@ -11,6 +11,7 @@
     Challenges are just goals i did not reach yet!
 
   < Find Me \>
+    Blog: https://ralphschuler.github.io
     Github: https://github.com/ralphschuler
     Codepen: https://codepen.io/ralph-schuler
 
