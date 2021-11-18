@@ -3,7 +3,7 @@
   < About Me \>
     My Name is Ralph,
     im a fullstack developer and
-    passionated nerd since 2008.
+    passionated nerd.
 
     I do mostly work with Typescript / C#
     but i also love to learn new Languages.
