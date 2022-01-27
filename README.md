@@ -1,23 +1,23 @@
-```
-< Hello World! \>
-  < About Me \>
-    My Name is Ralph,
-    im a fullstack developer and
-    passionated nerd.
+```diff
++ < Hello World! \>
++   < About Me \>
+-     My Name is Ralph,
+-     im a fullstack developer and
+-     passionated nerd.
 
-    I do mostly work with Typescript / C#
-    but i also love to learn new Languages.
+-     I do mostly work with Typescript / C#
+-     but i also love to learn new Languages.
 
-    Challenges are just goals i did not reach yet!
+-     Challenges are just goals i did not reach yet!
 
-  < Find Me \>
-    Blog: https://ralphschuler.github.io
-    Github: https://github.com/ralphschuler
-    Codepen: https://codepen.io/ralph-schuler
++   < Find Me \>
+-     Blog: https://ralphschuler.github.io
+-     Github: https://github.com/ralphschuler
+-     Codepen: https://codepen.io/ralph-schuler
 
-  < Buy Me a Coffee ?>
-    BuyMeACoffee: https://www.buymeacoffee.com/ralphschuler
-    Paypal: https://www.paypal.com/donate/?hosted_button_id=ZZGXRGVAJBBCU
++   < Buy Me a Coffee ?>
+-     BuyMeACoffee: https://www.buymeacoffee.com/ralphschuler
+-     Paypal: https://www.paypal.com/donate/?hosted_button_id=ZZGXRGVAJBBCU
 ```
 
 ### Metrics
