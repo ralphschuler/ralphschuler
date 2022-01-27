@@ -19,9 +19,6 @@
 -     BuyMeACoffee: https://www.buymeacoffee.com/ralphschuler
 -     Paypal: https://www.paypal.com/donate/?hosted_button_id=ZZGXRGVAJBBCU
 ```
-```html
-   // Code for coloring
-```
 
 ### Metrics
 ![Metrics](./github-metrics.svg)
