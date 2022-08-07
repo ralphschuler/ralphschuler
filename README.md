@@ -12,10 +12,8 @@
 -     Challenges are just goals i did not reach yet!
 
 +   < Find Me \>
--     Blog: https://ralphschuler.github.io
 -     Github: https://github.com/ralphschuler
 -     Codepen: https://codepen.io/ralph-schuler
--     Twitter: https://twitter.com/_rschuler
 
 +   < Buy Me a Coffee ?>
 -     BuyMeACoffee: https://www.buymeacoffee.com/multiplayercoat
