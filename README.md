@@ -9,7 +9,7 @@
 -     I do mostly work with Typescript / C#
 -     but i also love to learn new Languages.
 
--     Challenges are just goals i did not reach yet!
+-     There is a solution hidden inside every issue.
 
 +   < Find Me \>
 -     Github: https://github.com/ralphschuler
